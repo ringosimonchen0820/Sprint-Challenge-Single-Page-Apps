@@ -28,7 +28,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 - [ ]  Explain benefit(s) using `client-side routing`?
 
 > Answer:
-
+Won’t refresh when using client-side routing. There are just some elements inside the application that will change. Because less data is processed, routing between views is generally faster. Also, Smooth transitions and animations between views are easier to implement.
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
